@@ -54,6 +54,8 @@ Supported languages
 -------------------
 * English
 * Spanish
+* French
+* German
 
 Licenses
 --------
