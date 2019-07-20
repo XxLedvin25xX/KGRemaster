@@ -1,4 +1,4 @@
-KerbalGalaxy Remaster
+KerbalGalaxyRemaster
 =====================
 
 Originally created by: Artyomka15
