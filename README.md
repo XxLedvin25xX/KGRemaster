@@ -39,13 +39,17 @@ Installation
 
 5. Download [KGRemasterTextures](http://bit.ly/KGRTexture)  
    Copy the files from `[KGRemasterTextures Download]\GameData\` into `[KSP]\GameData\`.
+   
+6. Download [TextureReplacer](https://github.com/ducakar/TextureReplacer/releases/)  
+   Copy the files from `[TextureReplacer Download]\GameData\` into `[KSP]\GameData\`.
 
-6. After installing all the mods, your `GameData` folder should look like this:
+7. After installing all the mods, your `GameData` folder should look like this:
    * INSTANTIATOR\
    * KerbalGalaxyRemaster\
    * KGRemasterTextures\
    * Kopernicus\
    * ModularFlightIntegrator\
+   * TextureReplacer\
    * ModuleManager.4.0.2.dll
 
 7. Launch KSP and enjoy.
