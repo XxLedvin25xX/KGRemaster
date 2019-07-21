@@ -37,7 +37,7 @@ Installation
 4. Download [KerbalGalaxyRemaster](https://spacedock.info/mod/2146)  
    Copy the files from `[KerbalGalaxyRemaster Download]\GameData\` into `[KSP]\GameData\`.
 
-5. Download [KGRemasterTextures](http://bit.ly/KGRTextures)  
+5. Download [KGRemasterTextures](http://bit.ly/KGRTexture)  
    Copy the files from `[KGRemasterTextures Download]\GameData\` into `[KSP]\GameData\`.
 
 6. After installing all the mods, your `GameData` folder should look like this:
