@@ -46,4 +46,7 @@
     <Compile Include="Wormhole.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <PropertyGroup>
+    <PostBuildEvent>copy /y "$(TargetPath)" "..\..\..\OtherModsFiles"</PostBuildEvent>
+  </PropertyGroup>
 </Project>
