@@ -1,15 +1,14 @@
 using UnityEngine;
 
-namespace KerbalGalaxy
+namespace KerbalGalaxyRemaster
 {
     [KSPAddon(KSPAddon.Startup.Flight, false)]
     public class Wormhole : MonoBehaviour
     {
-        private static CelestialBody sun;
-        private static CelestialBody gargantua;
+        private static CelestialBody sun, gargantua;
 
         // Settings
-        private static readonly string settingsFile = $"{KSPUtil.ApplicationRootPath}GameData/KerbalGalaxy/WormholeSettings.cfg";
+        private static readonly string settingsFile = $"{KSPUtil.ApplicationRootPath}GameData/KerbalGalaxyRemaster/WormholeSettings.cfg";
 
         private static bool loaded;
         private static ConfigNode settings;
@@ -31,7 +30,7 @@ namespace KerbalGalaxy
                         sun = body;
                 }
 
-                Debug.Log("[KerbalGalaxy]: Celestial bodies loaded.");
+                Debug.Log("[KerbalGalaxyRemaster]: Celestial bodies loaded.");
             }
 
             if (!loaded)
@@ -40,11 +39,11 @@ namespace KerbalGalaxy
 
                 if (!modEnabled)
                 {
-                    Debug.Log("[KerbalGalaxy]: Mod disabled. Check settings.");
+                    Debug.Log("[KerbalGalaxyRemaster]: Mod disabled. Check settings.");
                     Destroy(this);
                 }
 
-                Debug.Log($"[KerbalGalaxy]: Settings loaded. Jump Altitude: {jumpAltitude}, Speed Limit: {speedLimit}");
+                Debug.Log($"[KerbalGalaxyRemaster]: Settings loaded. Jump Altitude: {jumpAltitude}, Speed Limit: {speedLimit}");
             }
         }
 

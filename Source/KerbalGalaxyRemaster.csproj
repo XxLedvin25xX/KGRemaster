@@ -7,8 +7,8 @@
     <ProjectGuid>{9DB8B524-5991-444D-96A4-D2C19633E3C6}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>KerbalGalaxy</RootNamespace>
-    <AssemblyName>KerbalGalaxy</AssemblyName>
+    <RootNamespace>KerbalGalaxyRemaster</RootNamespace>
+    <AssemblyName>KerbalGalaxyRemaster</AssemblyName>
     <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
