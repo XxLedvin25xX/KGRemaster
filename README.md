@@ -54,6 +54,8 @@ Installation
 
 7. Launch KSP and enjoy.
 
+### Or you can watch [this video](https://www.youtube.com/watch?v=cthO_qDYbuw&t=3s) for installation
+
 Supported languages
 -------------------
 * English
