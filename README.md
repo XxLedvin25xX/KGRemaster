@@ -21,8 +21,8 @@ Installation
    You will need to **DELETE** the following folders when updating:
    * GameData/Kopernicus
    * GameData/ModularFlightIntegrator
-   * GameData/KerbalGalaxyRemaster
-   * GameData/KGRemasterTextures
+   * GameData/KerbalGalaxy3
+   * GameData/KGR3Textures
 
 2. Download [Kopernicus](https://github.com/Kopernicus/Kopernicus/releases/)  
    Copy the files from `[Kopernicus Download]\GameData\` into `[KSP]\GameData\`.
