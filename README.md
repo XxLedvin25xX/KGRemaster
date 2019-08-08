@@ -1,4 +1,4 @@
-KerbalGalaxyRemaster
+Kerbal Galaxy 3
 =====================
 
 Originally created by: Artyomka15
@@ -11,7 +11,7 @@ Remastered by:
 
 About
 -----
-KerbalGalaxy Remaster is a planet pack for Kerbal Space Program. This pack adds 7 new solar systems, two black holes and one wormhole.
+Kerbal Galaxy 3 is a planet pack for Kerbal Space Program. This pack adds 7 new solar systems, two black holes and one wormhole.
 
 [comment]: <> (Place galaxy structure here - or a link to it)
 
@@ -34,10 +34,10 @@ Installation
    Copy the files from `[Instantiator Download]\GameData\` into `[KSP]\GameData\`.  
    You need to **DELETE** the `ExampleConfig.cfg` or the mod will not work correctly!
 
-4. Download [KerbalGalaxyRemaster](https://spacedock.info/mod/2146)  
+4. Download [KerbalGalaxy3](https://spacedock.info/mod/2146)  
    Copy the files from `[KerbalGalaxyRemaster Download]\GameData\` into `[KSP]\GameData\`.
 
-5. Download [KGRemasterTextures](http://bit.ly/KGRTexture)  
+5. Download [KG3Textures](http://bit.ly/KGRTexture)  
    Copy the files from `[KGRemasterTextures Download]\GameData\` into `[KSP]\GameData\`.
    
 6. Download [TextureReplacer](https://github.com/ducakar/TextureReplacer/releases/)  
@@ -45,8 +45,8 @@ Installation
 
 7. After installing all the mods, your `GameData` folder should look like this:
    * INSTANTIATOR\
-   * KerbalGalaxyRemaster\
-   * KGRemasterTextures\
+   * KerbalGalaxy3\
+   * KG3Textures\
    * Kopernicus\
    * ModularFlightIntegrator\
    * TextureReplacer\
@@ -65,6 +65,6 @@ Supported languages
 
 Licenses
 --------
-"KerbalGalaxyRemaster" is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)
+"KerbalGalaxy3" is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)
 
-"KGRemasterTextures" is licensed under the GNU General Public License (GPLv3)
+"KG3Textures" is licensed under the GNU General Public License (GPLv3)
