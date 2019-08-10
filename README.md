@@ -11,7 +11,7 @@ New Version By:
 
 About
 -----
-Kerbal Galaxy 3 is a planet pack for Kerbal Space Program. This pack adds 7 new solar systems, two black holes and one wormhole.
+KerbalGalaxy 3 is a planet pack for Kerbal Space Program. This pack adds 7 new solar systems, two black holes and one wormhole.
 
 [comment]: <> (Place galaxy structure here - or a link to it)
 
@@ -34,7 +34,7 @@ Installation
    Copy the files from `[Instantiator Download]\GameData\` into `[KSP]\GameData\`.  
    You need to **DELETE** the `ExampleConfig.cfg` or the mod will not work correctly!
 
-4. Download [KerbalGalaxy3](https://spacedock.info/mod/2146)  
+4. Download [KerbalGalaxy 3](https://spacedock.info/mod/2146)  
    Copy the files from `[KerbalGalaxyRemaster Download]\GameData\` into `[KSP]\GameData\`.
 
 5. Download [KG3Textures](http://bit.ly/KGRTexture)  
@@ -45,7 +45,7 @@ Installation
 
 7. After installing all the mods, your `GameData` folder should look like this:
    * INSTANTIATOR\
-   * KerbalGalaxy3\
+   * KerbalGalaxy\
    * KG3Textures\
    * Kopernicus\
    * ModularFlightIntegrator\
@@ -65,6 +65,6 @@ Supported languages
 
 Licenses
 --------
-"KerbalGalaxy3" is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)
+"KerbalGalaxy 3" is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)
 
-"KG3Textures" is licensed under the GNU General Public License (GPLv3)
+"KG3 Textures" is licensed under the GNU General Public License (GPLv3)
