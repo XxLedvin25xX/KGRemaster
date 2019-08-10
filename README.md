@@ -3,7 +3,7 @@ Kerbal Galaxy 3
 
 Originally created by: Artyomka15
 
-Remastered by:
+New Version By:
 * XxLedvin25xX      (Project Lead)
 * Olympic1          (Code & Career)
 * "Our Benefactors" (Kopernicus files)
