@@ -7,7 +7,6 @@ New Version By:
 * XxLedvin25xX      (Project Lead)
 * Olympic1          (Code & Career)
 * "Our Benefactors" (Kopernicus files)
-* rantonels         (Blackhole texture)
 
 About
 -----
