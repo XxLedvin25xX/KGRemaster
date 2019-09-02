@@ -36,7 +36,7 @@ Installation
 4. Download [KerbalGalaxy 3](https://spacedock.info/mod/2146)  
    Copy the files from `[KerbalGalaxyRemaster Download]\GameData\` into `[KSP]\GameData\`.
 
-5. Download [KG3Textures](http://bit.ly/KGRTexture)  
+5. Download [KG3Textures](http://bit.ly/KG3Texture)  
    Copy the files from `[KGRemasterTextures Download]\GameData\` into `[KSP]\GameData\`.
    
 6. Download [TextureReplacer](https://github.com/ducakar/TextureReplacer/releases/)  
