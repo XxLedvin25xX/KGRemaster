@@ -20,8 +20,7 @@ Installation
    You will need to **DELETE** the following folders when updating:
    * GameData/Kopernicus
    * GameData/ModularFlightIntegrator
-   * GameData/KerbalGalaxy3
-   * GameData/KGR3Textures
+   * GameData/KerbalGalaxy
 
 2. Download [Kopernicus](https://github.com/Kopernicus/Kopernicus/releases/)  
    Copy the files from `[Kopernicus Download]\GameData\` into `[KSP]\GameData\`.
@@ -45,7 +44,6 @@ Installation
 7. After installing all the mods, your `GameData` folder should look like this:
    * INSTANTIATOR\
    * KerbalGalaxy\
-   * KG3Textures\
    * Kopernicus\
    * ModularFlightIntegrator\
    * TextureReplacer\
@@ -53,7 +51,6 @@ Installation
 
 7. Launch KSP and enjoy.
 
-### Or you can watch [this video](https://www.youtube.com/watch?v=cthO_qDYbuw&t=3s) for installation
 
 Supported languages
 -------------------
