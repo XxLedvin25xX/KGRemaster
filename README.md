@@ -65,5 +65,3 @@ Supported languages
 Licenses
 --------
 "KerbalGalaxy 3" is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)
-
-"KG3 Textures" is licensed under the GNU General Public License (GPLv3)
