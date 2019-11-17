@@ -49,7 +49,10 @@ Installation
    * TextureReplacer\
    * ModuleManager.4.0.2.dll
 
-7. Launch KSP and enjoy.
+8. Launch KSP and enjoy.
+
+
+Extra. [Here](https://youtu.be/1VWOMqWIN1o) is the install video in English
 
 
 Supported languages
