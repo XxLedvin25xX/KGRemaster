@@ -21,6 +21,7 @@ Installation
    * GameData/Kopernicus
    * GameData/ModularFlightIntegrator
    * GameData/KerbalGalaxy
+   * GameData/INSTANTIATOR
 
 2. Download [Kopernicus](https://github.com/Kopernicus/Kopernicus/releases/)  
    Copy the files from `[Kopernicus Download]\GameData\` into `[KSP]\GameData\`.
@@ -28,7 +29,7 @@ Installation
    * ModularFlightIntegrator\
    * ModuleManager.4.0.2.dll
 
-3. Download [Instantiator](https://spacedock.info/mod/1624)  
+3. Download [Singularity](https://spacedock.info/mod/2420/Singularity)  
    Copy the files from `[Instantiator Download]\GameData\` into `[KSP]\GameData\`.  
    You need to **DELETE** the `ExampleConfig.cfg` or the mod will not work correctly!
 
@@ -42,18 +43,15 @@ Installation
    Copy the files from `[TextureReplacer Download]\GameData\` into `[KSP]\GameData\`.
 
 7. After installing all the mods, your `GameData` folder should look like this:
-   * INSTANTIATOR\
    * KerbalGalaxy\
    * Kopernicus\
+   * KopernicusExpansion\
    * ModularFlightIntegrator\
+   * Singularity\
    * TextureReplacer\
    * ModuleManager.4.0.2.dll
 
 8. Launch KSP and enjoy.
-
-
-Extra. [Here](https://youtu.be/1VWOMqWIN1o) is the install video in English
-
 
 Supported languages
 -------------------
